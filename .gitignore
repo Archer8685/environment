@@ -1,4 +1,1 @@
-.c9
-node_modules/
-redis-stable/
-*.zip
+.c9/
